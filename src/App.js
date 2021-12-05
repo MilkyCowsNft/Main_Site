@@ -192,7 +192,7 @@ function App() {
         <Banner
         dir='row'
         al="center"
-        side={<s.StyledImg2 src="/config/images/sandbox.png"
+        side={<s.StyledImg2 src="/config/images/sandbox.jpg"
                   
         />}
 
