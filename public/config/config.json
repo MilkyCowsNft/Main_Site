@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFe99aCFc042b733eb5Ae80afE92D17Be51808360",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfe99acfc042b733eb5ae80afe92d17be51808360",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Milky Cows",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 15,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/milkycow",
+  "SHOW_BACKGROUND": true
+}
